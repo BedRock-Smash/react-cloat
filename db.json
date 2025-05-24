@@ -90,9 +90,45 @@
     }
   ],
   "basket": [
-    
+    {
+      "id": "9022",
+      "title": "Anime Eyes Print Girls Casual Graphic Hoodie Tops",
+      "price": 10,
+      "type": "women",
+      "img": [
+        "/item6.png",
+        "/item6.png",
+        "/item6.png"
+      ],
+      "productId": "6",
+      "count": 1
+    },
+    {
+      "id": "323c",
+      "title": "Boys' Pink Anime-Inspired Hoodie",
+      "price": 20,
+      "type": "kids",
+      "img": [
+        "/item5.png",
+        "/item5.png",
+        "/item5.png"
+      ],
+      "productId": "5",
+      "count": 1
+    },
+    {
+      "id": "0de8",
+      "title": "Casual Anime Graphic Hooded Sweatshirt",
+      "price": 15,
+      "type": "men",
+      "img": [
+        "/item3.png",
+        "/item3.png",
+        "/item3.png"
+      ],
+      "productId": "3",
+      "count": 1
+    }
   ],
-  "order": [
-    
-  ]
+  "order": []
 }
